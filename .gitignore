@@ -1,0 +1,9 @@
+#arquivos
+*.class
+*jar
+*.war
+.project
+.classpath
+
+#pastas
+target/
